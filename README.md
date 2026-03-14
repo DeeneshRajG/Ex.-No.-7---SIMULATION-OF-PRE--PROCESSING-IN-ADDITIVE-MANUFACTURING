@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No.6  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 14.03.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+### Name:DEENESH RAJ G
+### Register Number:212225040056
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
